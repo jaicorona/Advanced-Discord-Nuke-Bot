@@ -1,2 +1,2 @@
 prefix = 'prefix'
-token = "bots token"
+token = "ODcxNDYzMDU5MTI4OTgzNTUy.YQbrOA.qEXtWPaR-XPTl1-MdP6z3ZzmZYk"
